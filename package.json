@@ -13,13 +13,13 @@
   },
   "keywords": [],
   "author": {
-    "name": "OlgaAlerx",
+    "name": "Alerxian",
     "email": "1967376524@qq.com"
   },
   "publish": {
     "provider": "github",
-    "owner": "OlgaAlerx",
-    "repo": "demo"
+    "owner": "Alerxian",
+    "repo": "electron-demo"
   },
   "license": "MIT",
   "pnpm": {
